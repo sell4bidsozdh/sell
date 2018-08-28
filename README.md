@@ -1,0 +1,2 @@
+# sell
+online auction and bidding system offer you a chance to shop for everything from travel mugs to travel trailers. As you check out items, check out the auction site, too. Before you commit your money or personal information, get to know how the site and seller operate, what you’re really bidding on, and scams that may crop up. That way you’ll have better odds of having a good experience as you hunt for that good deal. 
